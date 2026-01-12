@@ -1,0 +1,14 @@
+{
+    "name": "ASCII-MOS",
+    "version": "1.0.0",
+    "license": "CC0-1.0",
+    "description-uz": "O‘zbek Lotin harflari uchun ASCII standartiga mos muqobil harf biriktirmalari",
+    "description-en": "ASCII-compliant mapping for Uzbek Latin characters",
+    "rules": {
+        "o‘": "oe",
+        "o'": "oe",
+        "g‘": "gh",
+        "g'": "gh",
+        "’": ""
+    }
+}
