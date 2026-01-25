@@ -24,6 +24,7 @@ Oʻzbek tilidagi `oʻ` va `gʻ` harflaridagi tutuq belgilari koʻp hollarda tash
 
 - [Texnik Tavsif](docs/SPEC.md)
 - [Amaliy Misollar](docs/EXAMPLES.md)
+- [Koʻp Beriladigan Savollar](docs/KBS.md)
 - [Mashina oʻqiydigan qoidalar (JSON)](data/rules.json)
 - [English Documentation](README_EN.md)
 
